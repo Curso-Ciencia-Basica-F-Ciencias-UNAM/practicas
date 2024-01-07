@@ -1,0 +1,11 @@
+*.xopp
+*.png
+*.csv
+*.gif
+*~
+*.ipynb
+
+
+/.ipynb_checkpoints
+/pruebas
+/practicas-en-python
